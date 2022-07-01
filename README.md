@@ -1,4 +1,5 @@
 # git
 Github
 
-Termux nots
+لا ترموكس
+Termux 
